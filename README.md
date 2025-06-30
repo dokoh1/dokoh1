@@ -1,16 +1,15 @@
-<!-- 헤더 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Seokhwan's%20Github!%20🤗&fontAlign=50&fontAlignY=40&fontSize=30" />
+
+
 
 ### 📫 Contact
-**m.cross.3108@gmail.com**
+**dko00e5@gmail.com**
 
 ---
 
 ### 🧑‍💻 About Me
 - 🕹️ Unity-based game developer  
-- 🎮 Passionate about system design, gameplay logic, and clean architecture  
+- 🎮 Driven by a passion for Unity engine development, real-time rendering, robust system architecture, and immersive gameplay logic.
 - 🚀 I aim to become a Client Programmer  
-- 🏫 Department of Computer Science and Engineering at POSTECH  
 
 ---
 
@@ -20,6 +19,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![DirectX](https://img.shields.io/badge/DirectX-0036A0?style=flat&logo=directx&logoColor=white)
 
 #### 🛠 Tools  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
