@@ -27,17 +27,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
 
----
-
-### 🌟 Interest
-- 🎮 Game Development & Design  
-- 🧠 User-centered Feature Planning  
-- 🎨 UI/UX-focused Interaction Improvement  
-
----
-
-### 📊 GitHub Stats
-
-#### 최석환's GitHub Stats  
-[![Seokhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhwan031&count_private=true&show_icons=true&theme=default)](https://github.com/Seokhwan031)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokhwan031&layout=compact)](https://github.com/Seokhwan031)
